@@ -6,3 +6,9 @@
 ![NodeJS](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=nodedotjs)
 ![DiscordJS](https://img.shields.io/badge/-discordjs-000000?style=for-the-badge&logo=discord)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
+
+### Roles
+FCU HaxBet Developer
+
+![FCUnited](https://dcbadge.vercel.app/api/server/tAZKeSQj2A
+)
