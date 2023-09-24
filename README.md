@@ -3,6 +3,7 @@
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![JSON](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=nodedotjs)
 ![DiscordJS](https://img.shields.io/badge/-discordjs-000000?style=for-the-badge&logo=discord)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
