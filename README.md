@@ -10,6 +10,5 @@
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=letkh&show_icons=true&theme=gotham">
-  </a>
+![stats](https://github-readme-stats.vercel.app/api?username=letkh&show_icons=true&theme=gotham)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=letkh)](https://github.com/anuraghazra/github-readme-stats)
