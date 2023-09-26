@@ -11,4 +11,4 @@
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=letkh&show_icons=true&theme=merko)
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=letkh)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@letkh)](https://github.com/anuraghazra/github-readme-stats)
