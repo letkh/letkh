@@ -8,3 +8,8 @@
 ![DiscordJS](https://img.shields.io/badge/-discordjs-000000?style=for-the-badge&logo=discord)
 ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letkh&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+</a>
