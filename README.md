@@ -8,11 +8,3 @@
 ![DiscordJS](https://img.shields.io/badge/-discordjs-000000?style=for-the-badge&logo=discord)
 ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
-
-### Roles
-FCU HaxBet Developer
-
-[![FCUnited](https://dcbadge.vercel.app/api/server/tAZKeSQj2A
-)](https://discord.gg/tAZKeSQj2A)
-
-HaxChill Modifier
