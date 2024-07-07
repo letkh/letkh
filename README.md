@@ -1,4 +1,3 @@
-![Header](https://github.com/letkh/letkh/blob/main/assets/header.png)
 <h1 align="center">✨Hi, I am letkh</h1>    
 
 ### Languages and Tools
