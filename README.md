@@ -1,4 +1,4 @@
-<h1 align="center">✨Hi, I am letkh</h1>    
+<h1 align="center">✨Hi, I am Dũng (letkh)</h1>    
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
