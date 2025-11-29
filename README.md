@@ -10,4 +10,5 @@
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=letkh&show_icons=true&theme=merko)
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@letkh)
+![wakatime](https://wakatime.com/badge/user/letkh.svg)
+[![wakatime](https://wakatime.com/badge/user/483e632a-7fb9-4960-85bb-498cad8d83f9.svg)](https://wakatime.com/@483e632a-7fb9-4960-85bb-498cad8d83f9)
