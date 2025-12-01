@@ -1,16 +1,22 @@
 <h1 align="center">✨Hi, I am Dũng (letkh)</h1>    
 
-### Languages and Tools
+### Languages and Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![JSON](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=nodedotjs)
 ![DiscordJS](https://img.shields.io/badge/-discordjs-000000?style=for-the-badge&logo=discord)
 ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express)
+### CI
+![GitHub Actions](https://img.shields.io/badge/github%20actions-000000?style=for-the-badge&logo=githubactions)
+### Databases
+![Postgres](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/redis-000000?style=for-the-badge&logo=redis)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
+### Docs
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=swagger)
 
-
-![stats](https://github-readme-stats.vercel.app/api?username=letkh&show_icons=true&theme=merko)
-![wakatime](https://wakatime.com/badge/user/letkh.svg)
+![letkh's GitHub stats](https://gitstats-3ak7s6wat-dungs-projects-4601098f.vercel.app/api?username=letkh&show_icons=true&theme=dark)
+![Top Langs](https://gitstats-3ak7s6wat-dungs-projects-4601098f.vercel.app/api/top-langs/?username=letkh&langs_count=8)
 
 
 [![wakatime](https://wakatime.com/badge/user/483e632a-7fb9-4960-85bb-498cad8d83f9.svg)](https://wakatime.com/@483e632a-7fb9-4960-85bb-498cad8d83f9)
