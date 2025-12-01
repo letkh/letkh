@@ -15,8 +15,8 @@
 ### Docs
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=swagger)
 
-![letkh's GitHub stats](https://gitstats-3ak7s6wat-dungs-projects-4601098f.vercel.app/api?username=letkh&show_icons=true&theme=dark)
-![Top Langs](https://gitstats-3ak7s6wat-dungs-projects-4601098f.vercel.app/api/top-langs/?username=letkh&langs_count=8)
+![letkh's GitHub stats](https://gitstats-wine.vercel.app/api?username=letkh&show_icons=true&theme=radical)
+![Top Langs](https://gitstats-wine.vercel.app/api/top-langs/?username=letkh&layout=compact)
 
 
 [![wakatime](https://wakatime.com/badge/user/483e632a-7fb9-4960-85bb-498cad8d83f9.svg)](https://wakatime.com/@483e632a-7fb9-4960-85bb-498cad8d83f9)
