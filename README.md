@@ -16,7 +16,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=swagger)
 
 ![letkh's GitHub stats](https://gitstats-wine.vercel.app/api?username=letkh&show_icons=true&theme=radical)
-![Top Langs](https://gitstats-wine.vercel.app/api/top-langs/?username=letkh&layout=compact)
+[![letkh's WakaTime stats](https://gitstats-wine.vercel.app/api/wakatime?username=letkh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![wakatime](https://wakatime.com/badge/user/483e632a-7fb9-4960-85bb-498cad8d83f9.svg)](https://wakatime.com/@483e632a-7fb9-4960-85bb-498cad8d83f9)
