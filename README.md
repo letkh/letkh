@@ -7,7 +7,7 @@
 ![NodeJS](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=nodedotjs)
 ![DiscordJS](https://img.shields.io/badge/-discordjs-000000?style=for-the-badge&logo=discord)
 ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express)
-![JSON](https://img.shields.io/badge/-json-000000?style=for-the-badge&logo=json)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=Puppeteer)
 
 ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript)
 
